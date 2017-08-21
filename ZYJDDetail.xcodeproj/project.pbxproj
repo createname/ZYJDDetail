@@ -15,6 +15,17 @@
 		11D7B2271F45342000D0DBBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D7B2251F45342000D0DBBA /* LaunchScreen.storyboard */; };
 		11D7B2321F45342000D0DBBA /* ZYJDDetailTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2311F45342000D0DBBA /* ZYJDDetailTests.m */; };
 		11D7B23D1F45342000D0DBBA /* ZYJDDetailUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B23C1F45342000D0DBBA /* ZYJDDetailUITests.m */; };
+		11D7B24C1F4536BC00D0DBBA /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B24B1F4536BC00D0DBBA /* DetailViewController.m */; };
+		11D7B24F1F4537B600D0DBBA /* ZYTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B24E1F4537B600D0DBBA /* ZYTitleView.m */; };
+		11D7B2521F453C8D00D0DBBA /* ZYProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2511F453C8D00D0DBBA /* ZYProjectViewController.m */; };
+		11D7B2551F453C9D00D0DBBA /* ZYDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2541F453C9D00D0DBBA /* ZYDetailViewController.m */; };
+		11D7B2581F453CA800D0DBBA /* ZYCommentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2571F453CA800D0DBBA /* ZYCommentViewController.m */; };
+		11D7B25B1F4542E300D0DBBA /* ZYProjectTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B25A1F4542E300D0DBBA /* ZYProjectTopView.m */; };
+		11D7B25E1F45448200D0DBBA /* ZYProjectImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B25D1F45448200D0DBBA /* ZYProjectImageView.m */; };
+		11D7B2611F4544E600D0DBBA /* ZYPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2601F4544E600D0DBBA /* ZYPageView.m */; };
+		11D7B2641F45504B00D0DBBA /* ZYProjectBottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2631F45504B00D0DBBA /* ZYProjectBottomView.m */; };
+		11D7B2671F4550B800D0DBBA /* JKRProjectDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B2661F4550B800D0DBBA /* JKRProjectDetailView.m */; };
+		11D7B2701F457D5C00D0DBBA /* ZYImageScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 11D7B26F1F457D5C00D0DBBA /* ZYImageScrollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,28 @@
 		11D7B2381F45342000D0DBBA /* ZYJDDetailUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZYJDDetailUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11D7B23C1F45342000D0DBBA /* ZYJDDetailUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZYJDDetailUITests.m; sourceTree = "<group>"; };
 		11D7B23E1F45342000D0DBBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11D7B24A1F4536BC00D0DBBA /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		11D7B24B1F4536BC00D0DBBA /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		11D7B24D1F4537B600D0DBBA /* ZYTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYTitleView.h; sourceTree = "<group>"; };
+		11D7B24E1F4537B600D0DBBA /* ZYTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYTitleView.m; sourceTree = "<group>"; };
+		11D7B2501F453C8D00D0DBBA /* ZYProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYProjectViewController.h; sourceTree = "<group>"; };
+		11D7B2511F453C8D00D0DBBA /* ZYProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYProjectViewController.m; sourceTree = "<group>"; };
+		11D7B2531F453C9D00D0DBBA /* ZYDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYDetailViewController.h; sourceTree = "<group>"; };
+		11D7B2541F453C9D00D0DBBA /* ZYDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYDetailViewController.m; sourceTree = "<group>"; };
+		11D7B2561F453CA800D0DBBA /* ZYCommentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYCommentViewController.h; sourceTree = "<group>"; };
+		11D7B2571F453CA800D0DBBA /* ZYCommentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYCommentViewController.m; sourceTree = "<group>"; };
+		11D7B2591F4542E300D0DBBA /* ZYProjectTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYProjectTopView.h; sourceTree = "<group>"; };
+		11D7B25A1F4542E300D0DBBA /* ZYProjectTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYProjectTopView.m; sourceTree = "<group>"; };
+		11D7B25C1F45448200D0DBBA /* ZYProjectImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYProjectImageView.h; sourceTree = "<group>"; };
+		11D7B25D1F45448200D0DBBA /* ZYProjectImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYProjectImageView.m; sourceTree = "<group>"; };
+		11D7B25F1F4544E600D0DBBA /* ZYPageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYPageView.h; sourceTree = "<group>"; };
+		11D7B2601F4544E600D0DBBA /* ZYPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYPageView.m; sourceTree = "<group>"; };
+		11D7B2621F45504B00D0DBBA /* ZYProjectBottomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYProjectBottomView.h; sourceTree = "<group>"; };
+		11D7B2631F45504B00D0DBBA /* ZYProjectBottomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYProjectBottomView.m; sourceTree = "<group>"; };
+		11D7B2651F4550B800D0DBBA /* JKRProjectDetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKRProjectDetailView.h; sourceTree = "<group>"; };
+		11D7B2661F4550B800D0DBBA /* JKRProjectDetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKRProjectDetailView.m; sourceTree = "<group>"; };
+		11D7B26E1F457D5C00D0DBBA /* ZYImageScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYImageScrollView.h; sourceTree = "<group>"; };
+		11D7B26F1F457D5C00D0DBBA /* ZYImageScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYImageScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +134,7 @@
 		11D7B2161F45342000D0DBBA /* ZYJDDetail */ = {
 			isa = PBXGroup;
 			children = (
+				11D7B2681F4565FF00D0DBBA /* 产品 */,
 				11D7B21A1F45342000D0DBBA /* AppDelegate.h */,
 				11D7B21B1F45342000D0DBBA /* AppDelegate.m */,
 				11D7B21D1F45342000D0DBBA /* ViewController.h */,
@@ -110,6 +144,14 @@
 				11D7B2251F45342000D0DBBA /* LaunchScreen.storyboard */,
 				11D7B2281F45342000D0DBBA /* Info.plist */,
 				11D7B2171F45342000D0DBBA /* Supporting Files */,
+				11D7B24A1F4536BC00D0DBBA /* DetailViewController.h */,
+				11D7B24B1F4536BC00D0DBBA /* DetailViewController.m */,
+				11D7B24D1F4537B600D0DBBA /* ZYTitleView.h */,
+				11D7B24E1F4537B600D0DBBA /* ZYTitleView.m */,
+				11D7B2531F453C9D00D0DBBA /* ZYDetailViewController.h */,
+				11D7B2541F453C9D00D0DBBA /* ZYDetailViewController.m */,
+				11D7B2561F453CA800D0DBBA /* ZYCommentViewController.h */,
+				11D7B2571F453CA800D0DBBA /* ZYCommentViewController.m */,
 			);
 			path = ZYJDDetail;
 			sourceTree = "<group>";
@@ -138,6 +180,43 @@
 				11D7B23E1F45342000D0DBBA /* Info.plist */,
 			);
 			path = ZYJDDetailUITests;
+			sourceTree = "<group>";
+		};
+		11D7B2681F4565FF00D0DBBA /* 产品 */ = {
+			isa = PBXGroup;
+			children = (
+				11D7B26A1F45663300D0DBBA /* 第二页 */,
+				11D7B2691F45662500D0DBBA /* 第一页 */,
+				11D7B2501F453C8D00D0DBBA /* ZYProjectViewController.h */,
+				11D7B2511F453C8D00D0DBBA /* ZYProjectViewController.m */,
+			);
+			name = "产品";
+			sourceTree = "<group>";
+		};
+		11D7B2691F45662500D0DBBA /* 第一页 */ = {
+			isa = PBXGroup;
+			children = (
+				11D7B2591F4542E300D0DBBA /* ZYProjectTopView.h */,
+				11D7B25A1F4542E300D0DBBA /* ZYProjectTopView.m */,
+				11D7B25C1F45448200D0DBBA /* ZYProjectImageView.h */,
+				11D7B25D1F45448200D0DBBA /* ZYProjectImageView.m */,
+				11D7B25F1F4544E600D0DBBA /* ZYPageView.h */,
+				11D7B2601F4544E600D0DBBA /* ZYPageView.m */,
+				11D7B26E1F457D5C00D0DBBA /* ZYImageScrollView.h */,
+				11D7B26F1F457D5C00D0DBBA /* ZYImageScrollView.m */,
+			);
+			name = "第一页";
+			sourceTree = "<group>";
+		};
+		11D7B26A1F45663300D0DBBA /* 第二页 */ = {
+			isa = PBXGroup;
+			children = (
+				11D7B2621F45504B00D0DBBA /* ZYProjectBottomView.h */,
+				11D7B2631F45504B00D0DBBA /* ZYProjectBottomView.m */,
+				11D7B2651F4550B800D0DBBA /* JKRProjectDetailView.h */,
+				11D7B2661F4550B800D0DBBA /* JKRProjectDetailView.m */,
+			);
+			name = "第二页";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,9 +352,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11D7B2701F457D5C00D0DBBA /* ZYImageScrollView.m in Sources */,
 				11D7B21F1F45342000D0DBBA /* ViewController.m in Sources */,
+				11D7B2581F453CA800D0DBBA /* ZYCommentViewController.m in Sources */,
 				11D7B21C1F45342000D0DBBA /* AppDelegate.m in Sources */,
+				11D7B2611F4544E600D0DBBA /* ZYPageView.m in Sources */,
 				11D7B2191F45342000D0DBBA /* main.m in Sources */,
+				11D7B24C1F4536BC00D0DBBA /* DetailViewController.m in Sources */,
+				11D7B25E1F45448200D0DBBA /* ZYProjectImageView.m in Sources */,
+				11D7B25B1F4542E300D0DBBA /* ZYProjectTopView.m in Sources */,
+				11D7B2551F453C9D00D0DBBA /* ZYDetailViewController.m in Sources */,
+				11D7B24F1F4537B600D0DBBA /* ZYTitleView.m in Sources */,
+				11D7B2671F4550B800D0DBBA /* JKRProjectDetailView.m in Sources */,
+				11D7B2641F45504B00D0DBBA /* ZYProjectBottomView.m in Sources */,
+				11D7B2521F453C8D00D0DBBA /* ZYProjectViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

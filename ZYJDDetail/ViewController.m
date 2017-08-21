@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "DetailViewController.h"
 @interface ViewController ()
 
 @end
@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+}
+- (IBAction)pushClick:(id)sender {
+    DetailViewController *vc = [[DetailViewController alloc]init];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 
